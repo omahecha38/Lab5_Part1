@@ -1,4 +1,4 @@
-//# Lab5_Part1
+# Lab5_Part1
 
 #include <msp430.h> 
 #define Red_LED BIT6
